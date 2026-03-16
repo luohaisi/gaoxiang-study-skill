@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "chapter_id": "第2章",
+    "chapter_name": "信息技术发展",
+    "question_count": 6,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）不属于TCP/IP的应用层协议。",
+      "options": [
+        {
+          "id": "A",
+          "text": "DHCP（Dynamic Host Configuration，动态主机配置协议）"
+        },
+        {
+          "id": "B",
+          "text": "FTP（File Transfer Protocol，文件传输协议）"
+        },
+        {
+          "id": "C",
+          "text": "SMTP（Simple Mail Transfer Protocol，简单邮件传输协议）"
+        },
+        {
+          "id": "D",
+          "text": "ARP（Address Resolution Protocol，地址解析协议）"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "网络层中的协议主要有IP、ICMP（Internet Control Message Protocol，网际控制报文协议）、IGMP（Internet Group Management Protocol，网际组管理协议）、ARP（Address Resolution Protocol，地址解析协议）和RARP（Reverse Address Resolution Protocol，反向地址解析协议）等，这些协议处理信息的路由和主机地址解析。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "计算机网络"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "由安全机制、OSI网络参考模型、安全服务三个轴形成的信息安全系统三维空间中，操作系统漏洞检测与修复属于（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "平台安全"
+        },
+        {
+          "id": "B",
+          "text": "应用完全"
+        },
+        {
+          "id": "C",
+          "text": "通信安全"
+        },
+        {
+          "id": "D",
+          "text": "授权和审计安全"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "平台安全主要包括操作系统漏洞检测与修复、网络基础设施漏洞检测与修复、通用基础应用程序漏洞检测与修复、网络安全产品部署等。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "安全系统"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）定位于在并发事务中保证数据库中数据的逻辑一致性。",
+      "options": [
+        {
+          "id": "A",
+          "text": "保证数据库的完整性"
+        },
+        {
+          "id": "B",
+          "text": "保证数据的操作完整性"
+        },
+        {
+          "id": "C",
+          "text": "保证数据的语义完整性"
+        },
+        {
+          "id": "D",
+          "text": "防止非法的数据访问"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查的是数据库安全对策的相关内容。 故此题正确答案为B。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "数据库安全"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于软件定义网络（SDN）的描述，正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "网络设备的控制与数据面紧密耦合，由交换机自主决策转发规则"
+        },
+        {
+          "id": "B",
+          "text": "应用平面通过Open Flow协议直接配置数据平面设备"
+        },
+        {
+          "id": "C",
+          "text": "数据平面负责全局网络管理、控制平面负责执行简单的数据包转发"
+        },
+        {
+          "id": "D",
+          "text": "通过控制面与数据面分离，实现网络流量的灵活控制"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "软件定义网络（SDN）是一种新型网络创新架构，是网络虚拟化的一种实现方式，它可通过软件编程的形式定义和控制网络，其通过将网络设备的控制面与数据面分离开来，从而实现了网络流量的灵活控制，使网络变得更加智能，为核心网络及应用的创新提供了良好的平台。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "计算机网络"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于直接式存储（DAS）和网络接入存储（NAS）的描述不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "DAS数据传输协议是SCSI/FC/ATA，NAS数据传输协议是TCP/IP"
+        },
+        {
+          "id": "B",
+          "text": "DAS不一定采用集中式管里，NAS采用集中式管理"
+        },
+        {
+          "id": "C",
+          "text": "DAS的容量扩充能力高，NAS的容量扩充能力低"
+        },
+        {
+          "id": "D",
+          "text": "DAS的传输对象是数据块，NAS的传输对象是文件"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "DAS的容量扩充能力低，NAS的容量扩充能力中，SAN的容量扩充能力高。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "存储和数据库"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "某公司承接一个轨道交通乘客播放系统项目，下表是项目中为部分配置项定义的标识符，表中关于标识符的定义存在（ ）错误。",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "3"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "检查表格中的配置项和标识符，可以发现以下问题： 1.第4顶：Devicelnfo V1.1.java使用标识符Pl5-Dev-Code-002 但第3项Devicelnfo V1.0.java使用标识符PIS-Dev-Code-001 错误：同一源代码文件的不同版本应该保持相同的标识符，只是版本号不同。 2.第5顶：Devicelnfo V1.3,java使用标识符PI5-Dev-DB-001 错误：这是设备管理源代码，但标识符却含有“DB”(数据库)，与实际内容不符。 应该使用类似PIS-Dev-Code-003的标识符 3.第6顶：Devicelnfo V1.2,java使用标识符PI5-User-DB-002 错误：完全不同的标识符前缀（PIS-User-DB），与其它设备管理源代码不一致，还混入了“User”和“DB”元素，与设备管理源代码无关。 4.版本顺序问题：版本号V1.2应该在V1.1和V1.3之间，但标识符排序混乱。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "超纲"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    }
+  ]
+}

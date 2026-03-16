@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "chapter_id": "第20章",
+    "chapter_name": "高级项目管理",
+    "question_count": 7,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目集和项目组合的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "项目组合是为实现战略目标而组合在一起管理的项目集，子项目组合和运营工作的组合"
+        },
+        {
+          "id": "B",
+          "text": "项目集将一个大型复杂项目拆分后形成若干小项目形成的集合"
+        },
+        {
+          "id": "C",
+          "text": "项目组合经理通过项目组合的总体投资效果和实现效益来衡量项目组合的成功"
+        },
+        {
+          "id": "D",
+          "text": "项目集经理通过协调项目及组建的活动，确保项目集效益按预期实现"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "项目集是指一组相关的项目，这些项目被协调管理以获得单独管理无法实现的效益和控制。项目集并不是简单地将一个大型复杂项目拆分成若干小项目，而是通过协调多个相关项目来实现更高的效益。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "项目集管理标准"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "项目集发起人的主要职责不包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "消除项目集交付的困难和障碍"
+        },
+        {
+          "id": "B",
+          "text": "为项目组合经理进行交互，确保提供适当的资源和优先级"
+        },
+        {
+          "id": "C",
+          "text": "确保项目集目标与战略愿景保持一致"
+        },
+        {
+          "id": "D",
+          "text": "提供资金"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "项目集发起人其典型职责包括： （1）为项目集提供资金，确保项目集目标与战略愿景保持一致； （2）使效益实现交付； （3）消除项目集管理与交付的困难和障碍。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "项目集管理角色和职责"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "组织开展量化管理工作的前提在于该组织已经（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "定义了组织量化过程性能目标并识别了关键过程"
+        },
+        {
+          "id": "B",
+          "text": "建立了组织度量体系及数据收集体系"
+        },
+        {
+          "id": "C",
+          "text": "建立了过程性能基线及过程性能模型"
+        },
+        {
+          "id": "D",
+          "text": "定义了产品或项目管理的组织级标准过程"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "组织开展量化管理工作的前提在于该组织己经定义了产品或项目管理的组织级标准过程， 各个产品或项目团队能够遵循组织统一的管理流程、规程和产出要求开展工作，组织收集的度量数据才具备统计意义，可供开展量化管理建设。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "组织级量化管理"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）is the correct full name for the“OPM”.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Organizational Project Management"
+        },
+        {
+          "id": "B",
+          "text": "Operational Performance Management"
+        },
+        {
+          "id": "C",
+          "text": "Optimized Portfolio Management"
+        },
+        {
+          "id": "D",
+          "text": "Outcome Performance Management"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "“OPM”的全称是“Organizational Project Management”。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "组织级项目管理",
+        "概念"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "量化管理时，关于建立过程性能模型的相关描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "量化管理使用到的技术通常包括过程性能基线、过程性能模型、控制图、变异分析、回归分析、置信区间或预测区间、敏感度分析、蒙特卡洛模拟和假设检验等"
+        },
+        {
+          "id": "B",
+          "text": "对于相关性系数达到强相关（0.8≤|r≤1）的因子，可纳入建模因子"
+        },
+        {
+          "id": "C",
+          "text": "过程性能基线代表组织在一定条件内的能力范围，组织在建立过程性能基线的过程中，需注明该过程性能的前提条件范围"
+        },
+        {
+          "id": "D",
+          "text": "当通过多元回归方式建模后，每个因子的值P小于0.05时，需要另根据回归平方和R2作为判定系数的要求，R-sq越趋近于1，模型可靠性越高"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "通过多元回归方式建模后，需要通过建模结果的关键参数判定模型的可靠性程度。根据假设检验方法，当参与建模的每个因子的值P小于0.05时，认为该因子与模型结果显著相关，可以保留；如P大于0.05，需要进行进一步分析因子的可用性。另根据回归平方和R2（即R-sq值）作为判定系数的要求，R-sq越趋近于1，认为模型可靠性越高。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "组织级量化管理"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于OPM成熟度级别特征的描述，不正确的是：（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "级别1是初始或临时的OPM"
+        },
+        {
+          "id": "B",
+          "text": "级别3是组织定义的OPM"
+        },
+        {
+          "id": "C",
+          "text": "级别2是项目层级采用的OPM"
+        },
+        {
+          "id": "D",
+          "text": "级别4是持续优化的OPM"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "以下提供了OPM成熟度级别特征的一般描述，可应用于项目组合、项目集和项目。 （1）级别1，初始或临时的OPM。 （2）级别2，项目层级采用OPM。 （3）级别3，组织定义的OPM。 （4）级别4，量化管理的OPM。 （5）级别5，持续优化的OPM.",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "OPM成熟度模型"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目、项目集、项目组合的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "项目组合中的项目集或项目不一定存在彼此依赖或直接相关的关联关系"
+        },
+        {
+          "id": "B",
+          "text": "大型电网系统所辖项目包括建设输电线路，整合配电和用户端设备等，属于项目集管理"
+        },
+        {
+          "id": "C",
+          "text": "项目具有明确的目标且范围在整个生命周期中渐进明晰，应采用敏捷型方法管理项目"
+        },
+        {
+          "id": "D",
+          "text": "项目组合的成功通过项目组合的总体投资效果和实现的效益进行衡量"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "项目具有明确的目标且范围在整个生命周期中渐进明晰，应采用预测性方法管理项目。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "项目、项目集、项目组合和运营管理之间的关系"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    }
+  ]
+}

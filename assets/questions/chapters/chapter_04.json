@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "chapter_id": "第4章",
+    "chapter_name": "信息系统管理",
+    "question_count": 1,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "GB/T 28827.1《信息技术服务 运行维护 第1部分：通用要求》定义的IT运维能力模型包含治理要求、运行维护服务能力体系和价值实现，其中（ ）为价值实现赋能。",
+      "options": [
+        {
+          "id": "A",
+          "text": "用户需求"
+        },
+        {
+          "id": "B",
+          "text": "治理要求"
+        },
+        {
+          "id": "C",
+          "text": "战略要求"
+        },
+        {
+          "id": "D",
+          "text": "运维服务能力体系"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查的是运维管理中的能力模型。 国家标准GB/T 28827.1《信息技术服务 运行维护 第1部分 通用要求》定义了IT运维能力模型，该模型包含治理要求、运行维护服务能力体系和价值实现，如下图所示。 故此题正确答案为D。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "运维管理"
+      ],
+      "source": "2023年高项真题（第4批次）",
+      "source_year": 2023
+    }
+  ]
+}

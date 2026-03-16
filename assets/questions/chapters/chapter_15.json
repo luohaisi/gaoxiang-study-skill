@@ -1,0 +1,593 @@
+{
+  "metadata": {
+    "chapter_id": "第15章",
+    "chapter_name": "项目风险管理",
+    "question_count": 19,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "整体项目风险应对策略不包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "开拓"
+        },
+        {
+          "id": "B",
+          "text": "接受"
+        },
+        {
+          "id": "C",
+          "text": "上报"
+        },
+        {
+          "id": "D",
+          "text": "转移或分享"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查的是规划风险应对的工具与技术。 整体项目风险应对策略： 故此题正确答案为C。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "实施风险应对",
+        "工具与技术"
+      ],
+      "source": "2023年高项真题（第4批次）",
+      "source_year": 2023
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "适用于识别风险过程的数据分析技术是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "核查单"
+        },
+        {
+          "id": "B",
+          "text": "头脑风暴"
+        },
+        {
+          "id": "C",
+          "text": "访谈"
+        },
+        {
+          "id": "D",
+          "text": "SWOT技术"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "识别风险的工具与技术：专家判断、数据收集（头脑风暴、检查单、访谈）、数据分析（根本原因分析、假设条件和制约因素分析、SWOT分析、文件分析）、人际关系与团队技能、提示清单、会议。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "识别风险",
+        "工具与技术"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于规划风险应对过程的概述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "如果选定的策略并不完全有效，需要制定应急计划，识别采取风险应对措施后仍然存在的未被完全消除的次生风险"
+        },
+        {
+          "id": "B",
+          "text": "风险应对方案可以用结构化的决策技术来选择最适当的应对策略，为每个风险选择最可能有效的策略或策略组合"
+        },
+        {
+          "id": "C",
+          "text": "对于大型或复杂的项目，可能需要以数学优化模型或实际方案分析为基础，进行备选风险应对策略经济分析"
+        },
+        {
+          "id": "D",
+          "text": "风险应对方案应在当前项目背景下现实可行，获得全体干系人同意，并由一名责任人具体负责"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "风险应对方案应该与风险的重要性相匹配，并且能够经济有效地应对挑战，同时在当前项目背景下现实可行，获得全体干系人的同意，并由一名责任人具体负责。往往需要从几套可选方案中选出最优的风险应对方案，为每个风险选择最可能有效的策略或策略组合。可用结构化的决策技术来选择最适当的应对策略；对于大型或复杂项目，可能需要以数学优化模型或实际方案分析为基础，进行备选风险应对策略经济分析。 要为实施商定的风险应对策略制定具体的应对行动。如果选定的策略并不完全有效，或者发生了已接受的风险，就需要制订应急计划。同时，也需要识别次生风险。次生风险是实施风险应对措施直接导致的风险。 B选项错误的点在于前后两句话没有因果关系。",
+      "difficulty": "medium",
+      "knowledge_points": [],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目风险管理过程的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "实施风险应对是执行商定的风险应对计划的过程，需要在整个项目期间开展"
+        },
+        {
+          "id": "B",
+          "text": "在项目实际进展中，项目风险管理过程中的各个过程会相互交叠，相互作用"
+        },
+        {
+          "id": "C",
+          "text": "敏捷或适应型方法管理的项目，在每个迭代期间应该识别、分析和管理风险"
+        },
+        {
+          "id": "D",
+          "text": "影响风险规划管理过程的组织过程资产是组织或关键干系人设定的整体风险的临界值"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "影响规划风险管理过程的事业环境因素是组织或关键干系人设定的整体风险的临界值。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险管理",
+        "输入"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "How frequently the risks are being reviewed,this shouldrecorded in（ ）.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Risk Management Plan"
+        },
+        {
+          "id": "B",
+          "text": "1ssue Log"
+        },
+        {
+          "id": "C",
+          "text": "Risk Register"
+        },
+        {
+          "id": "D",
+          "text": "Risk Report"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查的是风险管理计划的相关内容。 审查风险的频率应记录在（ ）中。 A. 风险管理计划 B. 风险日志 C. 风险登记册 D. 风险报告 故此题正确答案为A。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险管理",
+        "输出"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在项目执行过程中，项目经理发现项目进展顺利，但某些潜在风险因素仍然存在。为了确保项目能够顺利完成，项目经理应采取（ ）措施，有效地监督这些风险。",
+      "options": [
+        {
+          "id": "A",
+          "text": "定期进行风险审查会议，并更新风险登记册"
+        },
+        {
+          "id": "B",
+          "text": "减少项目开支，以降低潜在风险的影响"
+        },
+        {
+          "id": "C",
+          "text": "分析风险因素对项目的潜在影响，并调整项目计划"
+        },
+        {
+          "id": "D",
+          "text": "增加项目预算，以应对可能出现的风险"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查的是风险审查会等相关内容。 适用于监督风险过程的会议是风险审查会。应该定期安排风险审查，来检查和记录风险应对在处理整体项目风险和已识别单个项目风险方面的有效性。在风险审查中，还可以识别出新的单个项目风险（包括已商定应对措施所引发的次生风险）、重新评估当前风险、关闭已过时风险、讨论风险发生所引发的问题，以及总结可用于当前项目后续阶段或未来类似项目的经验教训。 故此题正确答案为A。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "监督风险",
+        "工具与技术"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在一个大型项目实施过程中，项目经理发现项目风险已经发生，并且对项目进度和成本产生了显著影响。为了准确评估风险对项目目标的影响程度，项目经理应该采取的定量风险分析技术是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "风险分类"
+        },
+        {
+          "id": "B",
+          "text": "风险数据质量评估"
+        },
+        {
+          "id": "C",
+          "text": "风险概率和影响评估"
+        },
+        {
+          "id": "D",
+          "text": "敏感性分析"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查的是风险管理的工具与技术。 用于实施风险定性分析的工具与技术有：专家判断、数据收集（访谈）、数据分析（风险数据质量评估、风险概率和影响评估、其他风险参数评估）、人际关系与团队技能（引导）、风险分类、数据表现（概率和影响矩阵、层级图）、会议。 用于实施风险定量分析的工具与技术有：专家判断、数据收集、人际关系与团队技能、不确定性表现方式、数据分析（模拟、敏感性分析、决策树分析、影响图）。 故此题正确答案为D。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "实施定量风险分析",
+        "工具与技术"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于规划风险管理过程的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "规划风险管理在项目实施阶段开始，并在项目执行期间持续进行"
+        },
+        {
+          "id": "B",
+          "text": "规划风险管理是定义如何实施项目风险管理活动的过程"
+        },
+        {
+          "id": "C",
+          "text": "规划风险管理的主要作用是确保风险管理的水平、方法和可见度与项目风险程度相匹配"
+        },
+        {
+          "id": "D",
+          "text": "干系人分析法可用于规划风险管理过程"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查的是规划风险管理的工具与技术。 规划风险管理过程在项目立项阶段就应开始，并在项目早期完成。 故此题正确答案为A。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险管理",
+        "工具与技术"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "项目风险管理的首要目标是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "减轻威胁或强化机会"
+        },
+        {
+          "id": "B",
+          "text": "关注高概率风险"
+        },
+        {
+          "id": "C",
+          "text": "将所有风险转移给第三方"
+        },
+        {
+          "id": "D",
+          "text": "消除所有项目风险"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "项目风险管理旨在利用或强化正面风险（机会），规避或减轻负面风险（威胁）。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "项目风险概述"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在定量风险分析中，预期货币价值EMV的计算公式是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "∑（风险概率×收益）"
+        },
+        {
+          "id": "B",
+          "text": "路径净值/风险概率"
+        },
+        {
+          "id": "C",
+          "text": "风险概率×路径净值"
+        },
+        {
+          "id": "D",
+          "text": "∑（风险概率×路径净值）"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "预期货币价值EMV的计算公式是∑（风险概率×路径净值）。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "实施定量风险分析",
+        "工具与技术"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）不是规划风险管理过程的输入。",
+      "options": [
+        {
+          "id": "A",
+          "text": "干系人登记册"
+        },
+        {
+          "id": "B",
+          "text": "风险登记册"
+        },
+        {
+          "id": "C",
+          "text": "项目管理计划"
+        },
+        {
+          "id": "D",
+          "text": "组织的风险政策"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "规划风险管理输入包括：项目章程、项目管理计划、干系人登记册、事业环境因素、组织过程资产，组织的风险政策属于组织过程资产部分。选项B风险登记册是识别风险的输出，故选项B符合题意。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险管理",
+        "输入"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "分析组织的内外部环境对于组织战略的制定有着至关重要的作用，常用的组织成功关键因素分析方法有SWOT分析法和（ ）分析。",
+      "options": [
+        {
+          "id": "A",
+          "text": "波士顿矩阵"
+        },
+        {
+          "id": "B",
+          "text": "PEST模型"
+        },
+        {
+          "id": "C",
+          "text": "4F营销理论"
+        },
+        {
+          "id": "D",
+          "text": "卡诺模型"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "常用的组织成功关键因素分析方法有PEST模型分析和SWOT分析法等。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "组织环境分析"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "某信息系统开发项目中，技术负责人被指定为“核心算法性能不足”风险的责任人，需优化算法。但该负责人忙于其他任务，迟迟未行动。项目经理适宜采取的措施是：（ ），以推动其实施风险应对。",
+      "options": [
+        {
+          "id": "A",
+          "text": "与技术负责人协商调整其绩效考核指标，将算法优化纳入KPI"
+        },
+        {
+          "id": "B",
+          "text": "暂停负责人其他任务，强制其优先处理风险"
+        },
+        {
+          "id": "C",
+          "text": "要求团队其他成员接手算法优化工作"
+        },
+        {
+          "id": "D",
+          "text": "直接将该风险升级汇报给发起人，从发起人处申请风险应对方案"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "选项A：与技术负责人协商调整绩效考核指标，将算法优化纳入KPI，是通过“利益对齐”推动执行的合理方式KPI调整能明确该风险应对任务的优先级，让负责人主动重视；协商过程体现对其的尊重，可减少抵触情绪，同时确保任务与个人绩效挂钩，有效推动落地。 选项B：暂停负责人其他任务、强制优先处理风险过于强硬。技术负责人的其他任务可能也涉及项目关键节点，强制暂停可能引发新的项目延误，且易导致团队抵触，不符合协作管理原则。 选项C：若技术负责人具备独特能力，其他成员可能无法胜任。更换责任人可能影响效率，且题目未提及团队能力冗余，故该选项可行性较低。 选项D：升级通常用于超出项目经理权限的情况。当前问题属于团队内部资源调配，直接升级可能显得管理能力不足，且发起人介入并非最优解。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "实施风险应对",
+        "概念"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "适用于识别风险过程的数据收集技术主要包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "①②③"
+        },
+        {
+          "id": "B",
+          "text": "①③④"
+        },
+        {
+          "id": "C",
+          "text": "③④⑤"
+        },
+        {
+          "id": "D",
+          "text": "②④⑤"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "识别风险过程的数据收集技术包括：头脑风暴、核查单、访谈。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "识别风险",
+        "工具与技术"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）可用于评估风险管理过程的有效性。",
+      "options": [
+        {
+          "id": "A",
+          "text": "技术绩效分析"
+        },
+        {
+          "id": "B",
+          "text": "储备分析"
+        },
+        {
+          "id": "C",
+          "text": "风险审计"
+        },
+        {
+          "id": "D",
+          "text": "风险报告"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "风险审计是一种审计类型，可用于评估风险管理过程的有效性。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "监督风险",
+        "工具与技术"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于PEST组织战略分析的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "既考虑了企业自身的内部条件，又考虑了外部环境的影响"
+        },
+        {
+          "id": "B",
+          "text": "可以从政策支持、经济态势、技术实现和社会价值等层面制订发展战略"
+        },
+        {
+          "id": "C",
+          "text": "使企业能够适应外部环境的变化"
+        },
+        {
+          "id": "D",
+          "text": "用于评估企业所处于宏观环境对其产生的影响"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "PEST是宏观环境分析工具，聚焦于外部不可控因素，包括：Political（政治）、Economic（经济）、Social（社会）、Technological（技术）。不涉及企业内部条件（如资源、能力、文化等），内部条件属于SWOT分析中的S（优势）和W（劣势）。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "组织环境分析"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ） is the process of developing options，selecting strategies，and agreeing on actions to address overall project risk exposure，as well as to treat individual project risks.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Plan risk responses"
+        },
+        {
+          "id": "B",
+          "text": "Plan risk management"
+        },
+        {
+          "id": "C",
+          "text": "Implement risk responses"
+        },
+        {
+          "id": "D",
+          "text": "Perform quantitative risk analysis"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "（ ）是制定应对方案、选择策略并商定行动的过程，旨在应对整体项目风险敞口，同时处理单个项目风险。 A. 规划风险应对 B. 规划风险管理 C. 实施风险应对 D. 实施定量风险分析",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险应对",
+        "概念"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "用较简单的流程，进行更多次测试选用更可靠的卖方属于（ ）风险应对策略。延长进度计划或缩小范围属于（ ）风险应对策略。",
+      "options": [
+        {
+          "id": "A",
+          "text": "减轻 减轻"
+        },
+        {
+          "id": "B",
+          "text": "减轻 规避"
+        },
+        {
+          "id": "C",
+          "text": "转移 减轻"
+        },
+        {
+          "id": "D",
+          "text": "接受 规避"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "规避措施可能包括消除威胁的原因、延长进度计划、改变项目策略，或缩小范围。有些风险可通过澄清需求、获取信息、改善沟通或取得专有技能来加以规避。减轻措施包括采用较简单的流程、进行更多次测试和选用更可靠的卖方。还可能涉及原型开发，以降低从实验台模型放大到实际工艺或产品中的风险。如果无法降低概率，也许可以从决定风险严重性的因素入手，来减轻风险发生的影响。例如，在一个系统中加入冗余部件，可减轻原始部件故障所造成的影响。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险应对",
+        "工具与技术"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目风险管理过程的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "规划风险应对过程会定义如何实施项目风险管理活动"
+        },
+        {
+          "id": "B",
+          "text": "实施定性风险分析过程会对风险进行优先级排序"
+        },
+        {
+          "id": "C",
+          "text": "识别风险过程会识别单个项目风险以及整体项目风险的来源"
+        },
+        {
+          "id": "D",
+          "text": "实施风险应对过程会执行商定的风险应对计划"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "规划风险的应对措施是为了应对项目风险，而制定可选方案、选择应对策略并商定应对行动的过程。本过程的主要作用：（1）制定应对整体项目风险和单个项目风险的适当方法，②分配资源，并根据需要将相关活动添加进项目文件和项目管理计划中。 规划风险管理过程定义如何实施项目风险管理活动。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划风险应对",
+        "概念"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    }
+  ]
+}

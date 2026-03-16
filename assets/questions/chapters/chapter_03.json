@@ -1,0 +1,514 @@
+{
+  "metadata": {
+    "chapter_id": "第3章",
+    "chapter_name": "信息系统治理",
+    "question_count": 17,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "在IT审计流程中，“深入调查并调整审计计划”，属于（ ）的工作内容之一。",
+      "options": [
+        {
+          "id": "A",
+          "text": "审计终结阶段"
+        },
+        {
+          "id": "B",
+          "text": "审计准备阶段"
+        },
+        {
+          "id": "C",
+          "text": "后续审计阶段"
+        },
+        {
+          "id": "D",
+          "text": "审计实施阶段"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "审计实施阶段：IT审计实施阶段是审计人员将项目审计计划付诸实施的期间。此阶段的工作是审计全过程的中心环节，是整个审计流程的关键阶段，关系到整个审计工作的成败。实施阶段主要完成工作包括：①深入调查并调整审计计划；②了解并初步评估IT内部控制；③进行符合性测试；④进行实质性测试等。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "审计流程"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）的核心是关注IT定位和信息化建设与数字化转型的责权利划分。",
+      "options": [
+        {
+          "id": "A",
+          "text": "IT技术"
+        },
+        {
+          "id": "B",
+          "text": "IT管理"
+        },
+        {
+          "id": "C",
+          "text": "IT架构"
+        },
+        {
+          "id": "D",
+          "text": "IT治理"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "IT治理的核心是关注IT定位和信息化建设与数字化转型的责权利划分。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT治理体系"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在确定IT审计范围时，（ ）需要根据审计的目的和投入的审计成本来确定。",
+      "options": [
+        {
+          "id": "A",
+          "text": "逻辑范围"
+        },
+        {
+          "id": "B",
+          "text": "物理范围"
+        },
+        {
+          "id": "C",
+          "text": "组织范围"
+        },
+        {
+          "id": "D",
+          "text": "总体范围"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "IT审计范围的确定，如下表所示：",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT审计基础"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）的核心是关注IT定位和信息化建设与数字化转型的责权利划分。",
+      "options": [
+        {
+          "id": "A",
+          "text": "IT技术"
+        },
+        {
+          "id": "B",
+          "text": "IT治理"
+        },
+        {
+          "id": "C",
+          "text": "IT管理"
+        },
+        {
+          "id": "D",
+          "text": "IT架构"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "IT治理的核心是关注IT定位和信息化建设与数字化转型的责权利划分。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT治理体系"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在数据管理领域，数据管理能力成熟度模型（DCMM），将组织的管理成熟度划分为初始级、（ ）、稳健级、量化管理级和优化级。",
+      "options": [
+        {
+          "id": "A",
+          "text": "可进阶级"
+        },
+        {
+          "id": "B",
+          "text": "发展级"
+        },
+        {
+          "id": "C",
+          "text": "受管理级"
+        },
+        {
+          "id": "D",
+          "text": "安全级"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "数据管理能力成熟度模型。DCMM将组织的管理成熟度划分为5个等级，分别是：初始级、受管理级、稳健级、量化管理级和优化级。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "数据管理"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "IT审计业务和服务通常分IT内部控制审计和IT专项审计，（ ）属于IT内部控制审计。",
+      "options": [
+        {
+          "id": "A",
+          "text": "应用控制审计"
+        },
+        {
+          "id": "B",
+          "text": "数据审计"
+        },
+        {
+          "id": "C",
+          "text": "网络与信息安全审计"
+        },
+        {
+          "id": "D",
+          "text": "信息系统生命周期审计"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查的是IT审计内容。 故此题正确答案为A。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "审计内容"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "治理活动的主要任务聚焦在全局统等，价值导向，机制保障，创新发展，文化助推五个方面。其中“指导建立规范过程管理和痕迹管理，并向利益相关者公开质量设定举措”属于（ ）的内容。",
+      "options": [
+        {
+          "id": "A",
+          "text": "机制保障"
+        },
+        {
+          "id": "B",
+          "text": "创新发展"
+        },
+        {
+          "id": "C",
+          "text": "价值导向"
+        },
+        {
+          "id": "D",
+          "text": "全局统筹"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "本题考查的是治理活动的相关内容。 机制保障是指组织应对自身IT发展进行有效管控，保证IT需求与实现的协调发展，并使IT安全和风险得到有效的识别、管理、防范和处置。组织需要建立适合组织特点的机制保障方法，满足疏漏互补、协同发展、监督改进和安全风险可控的原则，避免扭曲决策目标方向。组织需要明确管理责任，明晰上下左右权利关系，落实责任制和各项措施。组织可以根据相关法律法规、行业管理和上级监管机构发布的规范文件要求，制定本组织的信息技术治理制度并实施，重点聚焦在：①指导建立规范过程管理和痕迹管理，并向利益相关者公开质量设定举措；②评审IT管理体系的适宜性、充分性和有效性：③审计IT完整性、有效性和合规性；④监督由审计和管理评审，提出改进内容的实施。 故此题正确答案为A。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT治理任务"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "软件过程能力成熟度模型（CSMM）包括治理、开发与交付、管理与支持、（ ）四个能力域。",
+      "options": [
+        {
+          "id": "A",
+          "text": "数据管理"
+        },
+        {
+          "id": "B",
+          "text": "组织管理"
+        },
+        {
+          "id": "C",
+          "text": "战略管理"
+        },
+        {
+          "id": "D",
+          "text": "运营管理"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查的是软件过程能力成熟度模型的相关内容。 软件过程能力是组织基于软件过程、技术、资源和人员能力达成业务目标的综合能力。包括治理能力、开发与交付能力、管理与支持能力、组织管理能力等方面。 故此题正确答案为B。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "过程管理"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "CMMI的4大能力域类别中，（ ）用于生产和提供优秀解决方案。",
+      "options": [
+        {
+          "id": "A",
+          "text": "提高（Proving）"
+        },
+        {
+          "id": "B",
+          "text": "管理（Managing）"
+        },
+        {
+          "id": "C",
+          "text": "实现（Enabling）"
+        },
+        {
+          "id": "D",
+          "text": "行动（Doing）"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查的是CMMI模型的相关内容。 CMMI将所有收集并论证过的最佳实践按逻辑归为4大能力域类别： 行动（Doing）：用于生产和提供优秀解决方案的能力域。 管理（Managing）：用于策划和管理解决方案实施的能力域。 使能（Enabling）：用于支持解决方案实施和交付的能力域。 提高（Improving）：用于维持和提高效率效能的能力域。 故此题正确答案为D。",
+      "difficulty": "medium",
+      "knowledge_points": [],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于数据生存周期相关的描述，正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "数据退役的核心是监控数据提供方服务水平，确保数据持续可用"
+        },
+        {
+          "id": "B",
+          "text": "数据设计和开发是提供数据应用，持续满足组织数据需求的过程"
+        },
+        {
+          "id": "C",
+          "text": "数据规划的核心是收集、评审需求并更新数据标准"
+        },
+        {
+          "id": "D",
+          "text": "数据运维工作包括设计数据保留策略并制定归档流程以满足法规要求"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "选项A，数据退役是对历史数据的管理，根据法律法规、业务、技术等方面需求，对历史数据的保留和销毁等，选项A描述错误； 选项B，数据设计与开发是指设计、实施数据解决方案，提供数据应用，持续满足组织的数据需求的过程，选项B描述正确； 选项C，数据生存周期中没有数据规划，选项C描述错误； 选项D，数据退役内容包括设计数据保留策略并制定归档流程以满足法规要求，选项D描述错误。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "数据管理"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于IT审计流程的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "在审计终结阶段归档审计底稿与报告"
+        },
+        {
+          "id": "B",
+          "text": "在后续审计阶段重新执行完整的审计步骤"
+        },
+        {
+          "id": "C",
+          "text": "在审计实施阶段开展符合性及实质性测试"
+        },
+        {
+          "id": "D",
+          "text": "在审计准备阶段组建团队并编制计划"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "后续审计是在审计报告发出后的一定时间内，审计人员为检查被审计单位对审计问题和建议是否已经采取了适当的纠正措施，并取得预期效果的跟踪审计。后续审计并不是一次新的审计，而是前一次审计的有机组成部分。实施后续审计，可不必遵守审计流程的每一过程和要求，但必须依法依规进行检查、调查，收集审计证据，写出后续审计报告。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "审计流程"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在如下数据表的相关描述中，4003、王亮、45是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "主数据"
+        },
+        {
+          "id": "B",
+          "text": "数据元"
+        },
+        {
+          "id": "C",
+          "text": "元数据"
+        },
+        {
+          "id": "D",
+          "text": "元元数据"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "在数据表中，4003、王亮、45是具体的数据实例，属于以下分类：数据元：指数据的基本单位，即某个字段的具体值（如UserID＝4003，UserName＝王亮，Age＝45）。主数据：指业务核心实体的完整记录（如用户、产品），而非单个字段值。元数据：描述数据的数据（如字段名、UserID、字段类型、长度等）。元元数据：描述元数据的数据（如定义元数据的标准或规则）。题目中的4003、王亮、45均为具体数据项的值，属于数据元，故正确答案为B。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "数据管理"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "软件过程能力成熟度CSMM4个能力域包括（ ）。①战略与规划②开发与交付③管理与支持④组织管理⑤治理",
+      "options": [
+        {
+          "id": "A",
+          "text": "②③④⑤"
+        },
+        {
+          "id": "B",
+          "text": "①②③④"
+        },
+        {
+          "id": "C",
+          "text": "①②④⑤"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "软件过程能力成熟度（CSMM）包括4个能力域：治理、开发与交付、管理与支持和组织管理。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "过程管理"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于组织IT治理相关的描述，不正确的是：（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "建立与IT发展相适应的组织文化发展策略"
+        },
+        {
+          "id": "B",
+          "text": "把组织治理纳入IT治理并建立IT治理机构"
+        },
+        {
+          "id": "C",
+          "text": "确保在可控成本与风险下实现IT战略目标"
+        },
+        {
+          "id": "D",
+          "text": "设立跨部门委员会统筹IT战略与业务集成"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A选项正确：IT治理强调组织文化的重要性（如培养风险意识、创新文化等）以支持IT的有效采用和治理。 B选项错误：组织治理是更高级别的治理框架，涵盖整个组织的战略、风险和绩效，而IT治理是组织治理的一部分，应嵌入其中。正确的关系是“IT治理纳入组织治理”而非颠倒。建立IT治理机构（如IT治理委员会）是正确的，但前半句“把组织治理纳入IT治理”错误地颠倒了逻辑关系。 C选项正确：是IT治理的核心目标之一，强调在成本可控和风险管理的前提下，交付IT价值并支持业务战略。 D选项正确：IT治理常见实践包括设立跨部门委员会（如IT指导委员会），以促进业务与IT的战略集成和决策协调。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT治理基础"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "IT治理的目标不包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "风险管理"
+        },
+        {
+          "id": "B",
+          "text": "有效利用信息与数据资源"
+        },
+        {
+          "id": "C",
+          "text": "与业务目标一致"
+        },
+        {
+          "id": "D",
+          "text": "进行的数据决策"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "IT治理主要三大目标：与业务目标一致、有效利用信息与数据资源、风险管理。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "IT治理基础"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "根据国标GB/T 36073，数据管理能力成熟度评估模型，组织的数据应用能力域不包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "数据服务"
+        },
+        {
+          "id": "B",
+          "text": "数据分类分级"
+        },
+        {
+          "id": "C",
+          "text": "数据开放共享"
+        },
+        {
+          "id": "D",
+          "text": "数据分析"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "组织的数据应用能力域包括：数据分析、数据开放共享和数据服务。数据分类分级属于数据安全能力域的内容。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "数据管理"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在IT审计流程中，（ ）是审计实施阶段的工作。",
+      "options": [
+        {
+          "id": "A",
+          "text": "进行符合性测试"
+        },
+        {
+          "id": "B",
+          "text": "编制审计计划"
+        },
+        {
+          "id": "C",
+          "text": "整理审计证据"
+        },
+        {
+          "id": "D",
+          "text": "明确审计目的及任务"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "IT审计实施阶段是审计人员将项目审计计划付诸实施的期间。此阶段的工作是审计全过程的中心环节，是整个审计流程的关键阶段，关系到整个审计工作的成败。实施阶段主要完成工作包括：（1）深入调查并调整审计计划；（2）了解并初步评估IT内部控制；（3）进行符合性测试；（4）进行实质性测试等。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "审计流程"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    }
+  ]
+}

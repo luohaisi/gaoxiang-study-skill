@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "chapter_id": "第9章",
+    "chapter_name": "项目范围管理",
+    "question_count": 17,
+    "source": "近3年高项真题选择题"
+  },
+  "questions": [
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）is the hierarchical breakdown of the entire scope of work by the project team to accomplish the project objectives and create the required deliverables， provides detailed deliverable，activity， and scheduling information about each component in the work breakdown structure.",
+      "options": [
+        {
+          "id": "A",
+          "text": "OLA"
+        },
+        {
+          "id": "B",
+          "text": "SLA"
+        },
+        {
+          "id": "C",
+          "text": "SOP"
+        },
+        {
+          "id": "D",
+          "text": "WBS"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "（WBS）是项目团队为完成项目目标和创建所需的可交付成果而对整个工作范围进行分层细分，它提供了有关工作分解结构中每个组件的详细可交付成果、活动和调度信息。 A. OLA B. SLA C. SOP D. WBS 故此题正确答案为D。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "创建WBS",
+        "概念"
+      ],
+      "source": "2023年高项真题（第4批次）",
+      "source_year": 2023
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "由客户或者发起人正式签字批准的文件是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "核实的可交付成果"
+        },
+        {
+          "id": "B",
+          "text": "工作绩效信息"
+        },
+        {
+          "id": "C",
+          "text": "验收的可交付成果"
+        },
+        {
+          "id": "D",
+          "text": "可交付成果"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "本题考查的是确认范围的输出。 符合验收标准的可交付成果应该由客户或发起人正式签字批准。 故此题正确答案为C。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "确认范围",
+        "输出"
+      ],
+      "source": "2023年高项真题（第4批次）",
+      "source_year": 2023
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于确认范围管理过程的叙述，正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "项目团队成员主要关注项目范围中自己参与的元素和负责的元素"
+        },
+        {
+          "id": "B",
+          "text": "项目实施单位的管理层主要关注产品或服务范围，客户主要关注项目制约因素"
+        },
+        {
+          "id": "C",
+          "text": "确认范围过程的作用是为所要支付的内容提供架构"
+        },
+        {
+          "id": "D",
+          "text": "符合验收标准的可交付成果应由项目经理正式签字批准"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "干系人关注点：",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "确认范围",
+        "概念"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目范围管理过程的描述，不正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "采用敏捷或适应型生命周期，旨在应对大量变更，需要干系人持续参与项目"
+        },
+        {
+          "id": "B",
+          "text": "在预测型项目中，只有通过正式变更控制程序，才能变更项目范围基准"
+        },
+        {
+          "id": "C",
+          "text": "在预测型项目中，通过多次迭代来开发可交付成果，使用未完成项反映当前需求"
+        },
+        {
+          "id": "D",
+          "text": "在适应型或敏捷型生命周期中，在每次迭代开始时都可以定义和批准详细的范围"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "采用敏捷或适应型生命周期，通过多次迭代来开发可交付成果，并在每次迭代开始时定义和批准详细的范围。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "项目范围管理过程",
+        "敏捷与适应方法"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于收集需求管理过程及相关技术的描述，正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "需求跟踪矩阵是把产品需求从其来源连接到能满足需求的可交付成果的一种表格"
+        },
+        {
+          "id": "B",
+          "text": "原型法是一种结构化的头脑风暴形式，通过投票排列最有用的创意"
+        },
+        {
+          "id": "C",
+          "text": "故事板是一种原型技术，是对产品范围的可视化描绘，可以直观显示业务系统的交互方式"
+        },
+        {
+          "id": "D",
+          "text": "收集需求管理过程为规划范围管理过程奠定基础，需要反复开展，贯穿于整个项目生命周期"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "A选项正确，需求跟踪矩阵是把产品需求从其来源连接到能满足需求的可交付成果的一种表格。 B选项错误：名义小组技术是一种结构化的头脑风暴形式。 C选项错误：故事板是一种原型技术，通过一系列的图像或图示来展示顺序或导航路径。 系统交互图是对产品范围的可视化描绘，可以直观显示业务系统（过程、设备、计算机系 统等）及其与人和其他系统（行动者）之间的交互方式。 D选项错误：收集需求仅开展一次或仅在项目的预定义点开展。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "收集需求",
+        "输出"
+      ],
+      "source": "2024年高项真题（第1批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于范围管理的描述，正确的是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "定义范围管理是为了记录如何定义、确认和控制项目范围及产品范围，而创建范围管理计划的过程"
+        },
+        {
+          "id": "B",
+          "text": "范围管理计划包含配置管理活动和需求优先级排序过程"
+        },
+        {
+          "id": "C",
+          "text": "范围管理计划是非常详细的正式的计划"
+        },
+        {
+          "id": "D",
+          "text": "规划范围管理的作用是在整个项目期间对如何管理范围提供指南和方向"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "本题考查的是范围管理的相关内容。 A选项规划范围管理是为了记录如何定义、确认和控制项目范围及产品范围，而创建范围管理计划的过程。本过程的主要作用是在整个项目期间对如何管理范围提供指南和方向。 ，B选项需求管理计划包含配置管理活动和需求优先级排序过程，C选项范围管理计划可以正式可以非正式、可以概括可以详细。 故此题正确答案为D。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划范围管理",
+        "概念"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "（ ）包括收到的变更请求的数量，接受的变更请求的数量或者确认和完成的可交付成果的数量；控制范围过程产生的（ ）包括收到的变更的分类、识别的范围偏差和原因、偏差对进度和成本的影响，以及对将来范围绩效的预测。",
+      "options": [
+        {
+          "id": "A",
+          "text": "工作绩效报告；工作绩效信息"
+        },
+        {
+          "id": "B",
+          "text": "工作绩效数据；工作绩效信息"
+        },
+        {
+          "id": "C",
+          "text": "工作绩效信息；工作绩效报告"
+        },
+        {
+          "id": "D",
+          "text": "工作绩效数据；工作绩效报告"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查的是工作绩效数据、绩效信息、绩效报告的相关内容。 工作绩效数据可能包括收到的变更请求的数量，接受的变更请求的数量或者核实、确认和完成的可交付成果的数量。 控制范围过程产生的工作绩效信息是有关项目和产品范围实施情况（对照范围基准）的相互关联且与各种背景相结合的信息，包括收到的变更的分类、识别的范围偏差和原因、偏差对进度和成本的影响，以及对将来范围绩效的预测。 工作绩效报告是为制定决策、采取行动或引起关注所形成的实物或电子工作绩效信息，它包括从进度控制、成本控制、质量控制和范围确认中得到的结果，有助于项目团队管理。绩效报告和相关预测报告中的信息，有助于确定未来的团队资源需求、认可与奖励，以及更新资源管理计划。 故此题正确答案为B。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "控制范围",
+        "输入"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "项目范围说明书包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "①②④⑥"
+        },
+        {
+          "id": "B",
+          "text": "①③⑤⑥"
+        },
+        {
+          "id": "C",
+          "text": "①②③⑤"
+        },
+        {
+          "id": "D",
+          "text": "①②⑤⑥"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "本题考查的是范围说明书的内容。 项目范围说明书包括内容有：产品范围描述、可交付成果、验收标准、项目的除外责任。 故此题正确答案为B。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "定义范围",
+        "输出"
+      ],
+      "source": "2024年高项真题（第2批次）",
+      "source_year": 2024
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于项目范围说明书的描述，不正确的是：（ ）",
+      "options": [
+        {
+          "id": "A",
+          "text": "项目范围说明书是对项目范围、主要可交付成果、假设条件和制约因素的描述"
+        },
+        {
+          "id": "B",
+          "text": "项目范围说明书应该与项目章程详细程度完全不同，内容不可重叠"
+        },
+        {
+          "id": "C",
+          "text": "项目验收的标准也应该记录在项目范围说明书中"
+        },
+        {
+          "id": "D",
+          "text": "项目范围说明书应该准确地描述要做和不要做的工作"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "虽然项目章程和项目范围说明书的内容存在一定程度的重叠，但它们的详细程度完全不同。项目章程包含高层级的信息。而项目范围说明书则是对范围组成部分的详细描述，这些组成部分需要在项目过程中渐进明细。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "定义范围",
+        "输出"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在规划范围管理过程中，需要针对（ ）进行分析。",
+      "options": [
+        {
+          "id": "A",
+          "text": "组织过程资产中的历史信息"
+        },
+        {
+          "id": "B",
+          "text": "项目范围说明书中的范围基准"
+        },
+        {
+          "id": "C",
+          "text": "风险登记册登记的风险清单"
+        },
+        {
+          "id": "D",
+          "text": "工作绩效数据中记录的绩效指数"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "规划范围管理的输入包括项目章程、项目生命周期描述、开发方法、质量管理计划、事业环境因素和组织过程资产。其中组织过程资产包括：政策和程序、历史信息和经验教训知识库等。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划范围管理",
+        "输入"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "项目范围管理的目的是（ ）",
+      "options": [
+        {
+          "id": "A",
+          "text": "确保项目信息及时且恰当地规划、收集、控制和最终处置"
+        },
+        {
+          "id": "B",
+          "text": "确保项目做且只做所需的全部工作以成功完成项目"
+        },
+        {
+          "id": "C",
+          "text": "识别、获取和管理所需资源以成功完成项目"
+        },
+        {
+          "id": "D",
+          "text": "识别、定义、组合项目管理过程中的各个过程和活动"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "项目范围管理包括确保项目做且只做所需的全部工作，以成功完成项目。项目范围管理主要在于定义和控制哪些工作应该包括在项目内，哪些不应该包含在项目内。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "产品范围和项目范围"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "确认范围过程依据（ ）过程形成的范围基准和（ ）过程形成的工作绩效数据和其他信息，对完成的成果进行验证，并将工作绩效信息输出给（ ）过程。",
+      "options": [
+        {
+          "id": "A",
+          "text": "定义范围、管理项目知识、监控项目工作"
+        },
+        {
+          "id": "B",
+          "text": "定义范围、指导与管理项目工作、结束项目或阶段"
+        },
+        {
+          "id": "C",
+          "text": "创建WBS、管理项目知识、结束项目或阶段"
+        },
+        {
+          "id": "D",
+          "text": "创建WBS、指导与管理项目工作、监控项目工作"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "确认范围过程依据创建WBS过程形成的范围基准和指导与管理项目工作过程形成的工作绩效数据和其他信息，对完成的成果进行验证，并将工作绩效信息输出给监控项目工作过程。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "确认范围",
+        "输入"
+      ],
+      "source": "2025年高项真题（第1批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "规划范围管理过程的输出不包括（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "范围管理计划"
+        },
+        {
+          "id": "B",
+          "text": "质量管理计划"
+        },
+        {
+          "id": "C",
+          "text": "配置管理活动"
+        },
+        {
+          "id": "D",
+          "text": "需求管理计划"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "规范范围管理的输出包括范围管理计划和需求管理计划，其中配置管理活动，属于需求管理计划的内容。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "规划范围管理",
+        "输出"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "某公司承接了一个医疗集团系统升级的项目，涉及多家医疗机构。项目经理在创建WBS时，发现各家医疗机构对系统功能需求差异较大，且个别医疗机构的部分需求尚未明确。最适合当前情况的WBS分解方式是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "按项目生命周期阶段分解，每个阶段下再按医疗机构划分"
+        },
+        {
+          "id": "B",
+          "text": "采用滚动式规划，先分解已知需求，后续逐步细化未知部分"
+        },
+        {
+          "id": "C",
+          "text": "按主要可交付成果分解，每个成果下再按功能模块细分"
+        },
+        {
+          "id": "D",
+          "text": "采用自上而下逐层细化，先按医疗机构分解，再在每个医疗机构下细化功能模块"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "A选项：此方法适用于流程明确且需求稳定的项目，但无法应对需求差异和不确定性，可能导致重复分解和结构冗余。 B选项：通过渐进明细的方式，优先分解已知需求（如已明确的功能模块），对未明确部分保留高层结构（如占位项），待信息充分后逐步细化。符合敏捷思维，适用于需求动态变化的场景。 C选项：若需求差异体现在可交付成果层面（如不同机构需独立成果），此方法可行。但题目中需求差异涉及功能模块层级，且部分需求不明确，可能无法预先定义所有成果。 D选项：虽直接匹配机构差异，但未明确的需求会导致部分分支无法细化（如“某机构-未明确功能”），需频繁调整WBS，增加管理复杂度。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "创建WBS",
+        "工具与技术"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "在控制范围过程，可更新的主要项目文件是（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "①②③"
+        },
+        {
+          "id": "B",
+          "text": "②③⑤"
+        },
+        {
+          "id": "C",
+          "text": "③④⑤"
+        },
+        {
+          "id": "D",
+          "text": "①③④"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "可在控制范围过程更新的项目文件主要包括：需求文件、需求跟踪矩阵、经验教训登记册。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "控制范围",
+        "输出"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "When using earned value analysis，the（ ）is compared to actual results to determine if a change，corrective action，or preventive action is necessary.",
+      "options": [
+        {
+          "id": "A",
+          "text": "cost baseline"
+        },
+        {
+          "id": "B",
+          "text": "performance measurement baseline"
+        },
+        {
+          "id": "C",
+          "text": "schedule baseline"
+        },
+        {
+          "id": "D",
+          "text": "scope baseline"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "在使用挣值分析时，需将（ ）与实际结果进行比对，以判断是否需要变更、纠正措施或预防措施。A. 成本基准B. 绩效测量基准C. 进度基准D. 范围基准",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "控制范围",
+        "输入"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    },
+    {
+      "type": "multiple_choice",
+      "question_text": "关于收集需求的描述，不正确的是：（ ）。",
+      "options": [
+        {
+          "id": "A",
+          "text": "需求包括发起人和其他干系人的已量化且书面记录的需要和期望"
+        },
+        {
+          "id": "B",
+          "text": "让干系人积极参与需求的探索和分解工作，并仔细确定、记录和管理对产品、服务或成果的需求，能直接促进项目成功"
+        },
+        {
+          "id": "C",
+          "text": "应该足够详细地挖掘、分析和记录需求，并将其作为范围基准"
+        },
+        {
+          "id": "D",
+          "text": "需求是指根据特定协议或其他强制性规范，产品、服务或成果必须具备的条件或能力"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "让干系人积极参与需求的探索和分解工作（分解成项目和产品需求），并仔细确定、记录和管理对产品、服务或成果的需求，能直接促进项目成功。需求是指根据特定协议或其他强制性规范，产品、服务或成果必须具备的条件或能力。它包括发起人、客户和其他干系人的已量化且书面记录的需要和期望。应该足够详细地挖掘、分析和记录这些需求，并将其包含在范围基准中，在项目执行开始后对其进行测量。 C选项不是作为范围基准，范围基准是创建WBS后形成的。",
+      "difficulty": "medium",
+      "knowledge_points": [
+        "收集需求",
+        "概念"
+      ],
+      "source": "2025年高项真题（第2批次）",
+      "source_year": 2025
+    }
+  ]
+}
