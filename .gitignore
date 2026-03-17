@@ -1,1 +1,3 @@
-**/archive.json
+# 忽略个人数据文件，但保留空模板
+assets/questions/archive.json
+assets/summaries/conversations.json
